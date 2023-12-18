@@ -1,0 +1,6 @@
+C:\Users\Alliyan Alvi\Desktop\masam\masam\Debug\masam.vcxproj.MdMergeInputs.cache
+C:\Users\Alliyan Alvi\Desktop\masam\masam\Debug\masam.vcxproj.cppwinrt_plat.cache
+C:\Users\Alliyan Alvi\Desktop\masam\masam\Debug\masam.vcxproj.cppwinrt_comp.cache
+C:\Users\Alliyan Alvi\Desktop\6th Semister\Assembly Language\masam\masam\Debug\masam.vcxproj.MdMergeInputs.cache
+C:\Users\Alliyan Alvi\Desktop\6th Semister\Assembly Language\masam\masam\Debug\masam.vcxproj.cppwinrt_plat.cache
+C:\Users\Alliyan Alvi\Desktop\6th Semister\Assembly Language\masam\masam\Debug\masam.vcxproj.cppwinrt_comp.cache

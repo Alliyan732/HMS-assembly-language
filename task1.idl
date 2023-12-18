@@ -1,0 +1,9 @@
+namespace masam
+{
+    [default_interface]
+    runtimeclass task1 : Windows.UI.Xaml.Controls.Page
+    {
+        task1();
+        Int32 MyProperty;
+    }
+}
